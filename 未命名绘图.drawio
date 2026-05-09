@@ -49,6 +49,9 @@
         <mxCell id="WJp-D0na_lM4Jagzph4A-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=light-dark(#ffffff, #ededed);strokeColor=#C73500;" value="Swin Transformer Block" vertex="1">
           <mxGeometry height="40" width="80" x="30" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="RmkoS22CfnIij1Kmwyk0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="2×" vertex="1">
+          <mxGeometry height="10" width="20" x="90" y="610" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
