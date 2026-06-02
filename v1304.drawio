@@ -289,8 +289,23 @@
         <mxCell id="5w2mihcUQRTu4g4dFOq_-115" parent="1" style="whiteSpace=wrap;html=1;" value="cross-attention" vertex="1">
           <mxGeometry height="45" width="137" x="400" y="970" as="geometry" />
         </mxCell>
+        <mxCell id="5w2mihcUQRTu4g4dFOq_-122" edge="1" parent="1" source="5w2mihcUQRTu4g4dFOq_-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5w2mihcUQRTu4g4dFOq_-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5w2mihcUQRTu4g4dFOq_-116" parent="1" style="whiteSpace=wrap;html=1;" value="self-attention" vertex="1">
-          <mxGeometry height="50" width="137" x="580" y="970" as="geometry" />
+          <mxGeometry height="60" width="137" x="580" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="5w2mihcUQRTu4g4dFOq_-125" edge="1" parent="1" source="5w2mihcUQRTu4g4dFOq_-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5w2mihcUQRTu4g4dFOq_-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5w2mihcUQRTu4g4dFOq_-121" parent="1" style="whiteSpace=wrap;html=1;" value="context token" vertex="1">
+          <mxGeometry height="60" width="60" x="630" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="5w2mihcUQRTu4g4dFOq_-123" parent="1" style="whiteSpace=wrap;html=1;" value="atlas task token" vertex="1">
+          <mxGeometry height="60" width="60" x="450" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="5w2mihcUQRTu4g4dFOq_-124" edge="1" parent="1" source="5w2mihcUQRTu4g4dFOq_-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;" target="5w2mihcUQRTu4g4dFOq_-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
