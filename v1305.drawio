@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="1254" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1824" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,10 @@
           <mxGeometry height="80" width="120" x="-20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="LW_TwypR-APMgQ3pFBTE-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="80" x="200" y="560" as="geometry" />
+          <mxGeometry height="130" width="540" x="200" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="FdqlaFCeAhjTHyUg5g_z-71" parent="LW_TwypR-APMgQ3pFBTE-7" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#E4EEE4;strokeColor=light-dark(#d9e7d5, #446e2c);" value="" vertex="1">
+          <mxGeometry height="140" width="580" x="-40" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="LW_TwypR-APMgQ3pFBTE-8" parent="LW_TwypR-APMgQ3pFBTE-7" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Image&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Encoder&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="-20" y="20" as="geometry" />
