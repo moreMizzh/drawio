@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="2702" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2389" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,12 +657,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-200" y="1023.8299999999999" as="sourcePoint" />
             <mxPoint x="-200" y="976.83" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1n3qHIZAz2nNEV2aMO-g-15" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="380" y="2087" as="sourcePoint" />
-            <mxPoint x="380" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -1725,6 +1719,12 @@
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-278" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(L_{entropy}\)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1670" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-15" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="2087" as="sourcePoint" />
+            <mxPoint x="380" y="2000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
