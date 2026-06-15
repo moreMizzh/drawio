@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="2210" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1384" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3755,15 +3755,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o3kHBDQJvbSOBTcy001_-324" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(L_{entropy}\)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="2368.7599999999998" y="2772" as="geometry" />
+          <mxGeometry height="30" width="60" x="2368.7599999999998" y="2783" as="geometry" />
         </mxCell>
         <mxCell id="o3kHBDQJvbSOBTcy001_-325" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2398.36" y="2810.5" />
+              <mxPoint x="2398.6200000000003" y="2819" />
             </Array>
-            <mxPoint x="2398.36" y="2830.5" as="sourcePoint" />
-            <mxPoint x="2398.36" y="2800.5" as="targetPoint" />
+            <mxPoint x="2398.6200000000003" y="2828.5" as="sourcePoint" />
+            <mxPoint x="2398.6200000000003" y="2809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o3kHBDQJvbSOBTcy001_-326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBF0EE;strokeColor=#0e8088;rotation=0;arcSize=12;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Registration-based&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Warping&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
