@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="1782" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2833" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8699,7 +8699,7 @@
         <mxCell id="o3kHBDQJvbSOBTcy001_-1734" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(L_{entropy}\)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="3710.96" y="5418" as="geometry" />
         </mxCell>
-        <mxCell id="o3kHBDQJvbSOBTcy001_-1735" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+        <mxCell id="o3kHBDQJvbSOBTcy001_-1735" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 4 1 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="3740.8200000000006" y="5454" />
@@ -8711,7 +8711,7 @@
         <mxCell id="o3kHBDQJvbSOBTcy001_-1736" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBF0EE;strokeColor=#0e8088;rotation=90;arcSize=12;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Registration-based&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Warping&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="2742.84" y="5047.5" as="geometry" />
         </mxCell>
-        <mxCell id="o3kHBDQJvbSOBTcy001_-1737" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+        <mxCell id="o3kHBDQJvbSOBTcy001_-1737" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;dashed=1;dashPattern=8 4 1 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="3749.93" y="5037" />
@@ -8846,7 +8846,7 @@
             <mxPoint x="2999.413" y="5118.370000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o3kHBDQJvbSOBTcy001_-1780" edge="1" parent="1" source="o3kHBDQJvbSOBTcy001_-1777" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=6;startSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="o3kHBDQJvbSOBTcy001_-1727" value="">
+        <mxCell id="o3kHBDQJvbSOBTcy001_-1780" edge="1" parent="1" source="o3kHBDQJvbSOBTcy001_-1777" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=6;startSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;" target="o3kHBDQJvbSOBTcy001_-1727" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="3329.36" y="4990" />
