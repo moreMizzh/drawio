@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="1389" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1630" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-336" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.806;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="1n3qHIZAz2nNEV2aMO-g-327" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="920" />
+            </Array>
+            <mxPoint x="1380" y="800" as="sourcePoint" />
+            <mxPoint x="1459.37" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FdqlaFCeAhjTHyUg5g_z-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;arcSize=7;glass=0;fontColor=#333333;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="570" width="210.57" x="250" y="590" as="geometry" />
         </mxCell>
@@ -1834,7 +1843,7 @@
           <mxGeometry height="20" width="100" x="1336.5" y="760" as="geometry" />
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;rotation=-90;" value="Class-wise Masked Avg Pooling" vertex="1">
-          <mxGeometry height="60" width="110" x="1316.98" y="1048" as="geometry" />
+          <mxGeometry height="60" width="110" x="1326.8700000000001" y="1036.16" as="geometry" />
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Pixel Shuffle&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="70.2" x="1481.3999999999999" y="945" as="geometry" />
@@ -1873,6 +1882,30 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1379.67" y="689.76" as="sourcePoint" />
             <mxPoint x="1379" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-335" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1379.8200000000002" y="790" as="sourcePoint" />
+            <mxPoint x="1380" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-337" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1506.49" y="1115" as="sourcePoint" />
+            <mxPoint x="1506.1" y="1135.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-338" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1379.67" y="1130" as="sourcePoint" />
+            <mxPoint x="1380" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-339" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1509.0300000000002" y="1230.26" as="sourcePoint" />
+            <mxPoint x="1508.64" y="1250.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
