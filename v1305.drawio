@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PF04YszJ2D5hTOJrdAss">
-    <mxGraphModel dx="2702" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1909" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1837,7 +1837,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rotation=0;" value="Embedding" vertex="1">
-          <mxGeometry height="20" width="63.13" x="1365.25" y="945" as="geometry" />
+          <mxGeometry height="20" width="63.13" x="1363.85" y="945" as="geometry" />
         </mxCell>
         <mxCell id="1n3qHIZAz2nNEV2aMO-g-324" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rotation=0;" value="Downsampling" vertex="1">
           <mxGeometry height="20" width="100" x="1304.88" y="760" as="geometry" />
@@ -1954,6 +1954,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="319.98" y="875" as="sourcePoint" />
             <mxPoint x="370" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1n3qHIZAz2nNEV2aMO-g-355" edge="1" parent="1" source="1n3qHIZAz2nNEV2aMO-g-319" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=30;exitDy=50;exitPerimeter=0;" target="1n3qHIZAz2nNEV2aMO-g-325" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1394.88" y="880" as="sourcePoint" />
+            <mxPoint x="1444.88" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
